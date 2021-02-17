@@ -1,0 +1,9 @@
+ul {list-style-type: none; margin: 0; padding: 0; 
+    
+}
+
+li a {text-decoration: none; text-align: center; display: block; width: 150px; background-color: aqua; color:black; height: 50px; line-height: 50px;
+    
+}
+
+li a:hover {background-color: red}
