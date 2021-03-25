@@ -1,0 +1,20 @@
+body {background-color: floralwhite; font-family: serif; font-size: 0.8cm
+}
+
+h1 {text-align: center; background-color: rgb(0,0,0,0.5); color: aqua
+}
+
+p {text-align: center; background-color: rgb(0,0,0,0.5); color: aqua
+}
+
+ol {text-align: left; background-color: rgb(0,0,0,0.5); color: aqua; width: 150px
+}
+
+ol {list-style-type: none; margin: 0; padding: 0;  
+}
+
+li a {text-align: left; text-decoration: none; display: block; width:150px; background-color: aqua; color:black; height: 50px; line-height: 50px;   
+}
+
+li a:hover {background-color: red
+}
